@@ -6,7 +6,7 @@ Livestock Production Record Keeping Application
 
 This app was designed to receive and store data in a SQL database on your mobile phone and export a summary of  all sales, expenses, stock updates, general activities, feed records, health records and offspring records. It can also be used to schedule birth due dates and determine compost mixtures.
 
-#PRIVACY POLICY
+# PRIVACY POLICY
 Last updated: May 3rd, 2025
 
 This privacy notice for LynBee´s ('we','us','our'), describes how and why we might collect, store, use, and/or share)'process') your information when you use our services, such as when you:
