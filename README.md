@@ -7,7 +7,7 @@ Livestock Production Record Keeping Application
 This app was designed to receive and store data in a SQL database on your mobile phone and export a summary of  all sales, expenses, stock updates, general activities, feed records, health records and offspring records. It can also be used to schedule birth due dates and determine compost mixtures.
 
 # PRIVACY POLICY
-Last updated: May 3rd, 2025
+Last updated: May 4th, 2025
 
 This privacy notice for LynBee´s ('we','us','our'), describes how and why we might collect, store, use, and/or share)'process') your information when you use our services, such as when you:
 - Download and use our mobile application (SIAP Records), or any other application of ours that links to the privacy notice.
@@ -16,7 +16,7 @@ This privacy notice for LynBee´s ('we','us','our'), describes how and why we mi
 Questions or concerns? 
 Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions, concerns, please contact us at Lyn.Bees.14@gmail.com
 
-#SUMMARY OF KEY POINTS
+# SUMMARY OF KEY POINTS
 
 The following summary provides key points from our privacy notice:
 - What personal information de we process? When you visit, use, or navigate our services, we may process personal information depending on how you interact with us and services, the choices you make, and the products and features you use.
